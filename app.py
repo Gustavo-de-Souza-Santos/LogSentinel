@@ -175,7 +175,7 @@ else:
             y="Falhas",
             title="Quantidade de falhas por IP",
         )
-
+        fig_ips.update_yaxes(dtick=1)
         st.plotly_chart(fig_ips, width="stretch")
 
     # Alertas
