@@ -26,7 +26,7 @@ em Python para fins educacionais.
 Clone o repositório e entre na pasta:
 
 ```bash
-git clone URL_DO_SEU_REPOSITORIO
+git clone https://github.com/Gustavo-de-Souza-Santos/LogSentinel.git
 cd LogSentinel
 ```
 
