@@ -4,6 +4,8 @@
 Dashboard de análise de logs de autenticação SSH desenvolvido
 em Python para fins educacionais.
 
+![Dashboard do LogSentinel](ola.png)
+
 ## Funcionalidades
 
 - Identificação de falhas de autenticação e logins aceitos.
